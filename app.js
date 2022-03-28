@@ -4,7 +4,7 @@ const port = 3000
 
 app.get('/', (req, res) => {
   res.json({
-      'message' : 'Hello from backend v0.2!'
+      'message' : 'Hello from backend v0.3!'
   });
 })
 
